@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="400" alt="coding" src="https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif">
-</p>
+  <img width="400" alt="coding" src="https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif"></p>
 
 
 <h1 align="center">Hi 👋, I'm Nouhaila</h1>
