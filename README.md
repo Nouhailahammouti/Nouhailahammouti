@@ -7,8 +7,6 @@
 
 <img align ="centre" alt="coding" width ="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif">
 
-- 💬 Ask me about **anything**
-
 - 📫 How to reach me **nouhaylahmmouti081@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
