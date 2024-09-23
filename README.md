@@ -1,8 +1,6 @@
 <p align="center">
   <img width="400" alt="coding" src="https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif"></p>
 
-
-<h1 align="center">Hi>-<</h1>
 <h3 align="center">A passionate frontend developer from Morocco </h3>
 
 <img align ="centre" alt="coding" width ="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif">
